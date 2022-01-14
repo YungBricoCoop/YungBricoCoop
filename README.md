@@ -1,7 +1,7 @@
 
 <p align="center">
 
-   <img align="center" src="https://raw.githubusercontent.com/YungBricoCoop/YungBricoCoop/76a543e816e8dd34a0df8e9475667dc76aa9f3db/assets/28.svg" width="150" height="150" />
+   <img align="center" src="https://raw.githubusercontent.com/YungBricoCoop/YungBricoCoop/main/assets/28.png" width="150" height="150" />
   
 </p>
 
