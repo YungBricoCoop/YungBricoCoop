@@ -8,7 +8,7 @@
 # 🤙Hi there ! I'm Elwan
 
 - 🌱 I’m currently learning how to use K2 from Nintex
-- 💻 Work : I realy like working on web/scripting projects
+- 💻 Work : I really like working on web/scripting projects
 - 📫 How to reach me: elwan.mayencourt@gmail.com
 - 🎵 Music: I like and listen to music a lot
 - 🙃 Hobbys : 3D🖨️ / Electronic / Drones
