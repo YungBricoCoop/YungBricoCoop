@@ -50,3 +50,7 @@
 # 💾 OS
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+# 📈Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YungBricoCoop&show_icons=true&theme=radical)
+[![wakatime](https://wakatime.com/badge/user/ee872f10-6167-41c6-8aad-e80d7519df4c.svg)](https://wakatime.com/@ee872f10-6167-41c6-8aad-e80d7519df4c)
