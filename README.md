@@ -15,6 +15,7 @@
 
 # 🌐 Languages / Technologies / Tools
 
+<div style="text-align:center">
 |Love it     | Like it          |
 |--------|----------------------|
 | ![LoveIt](https://elwan.ch/github/cdp/cdp.php?data=Python,Javascript,React,Php&tp=0) | ![LikeIt](https://elwan.ch/github/cdp/cdp.php?data=NodeJS,Django,Bootstrap,Chart.js,JAVA,MySQL&tp=0) | 
@@ -22,8 +23,9 @@
 | ![School](https://elwan.ch/github/cdp/cdp.php?data=Java,JS,PHP,SQL,Linux) | ![Learn](https://elwan.ch/github/cdp/cdp.php?data=Socket.IO,Flutter,Vue.js,Three.js,C%23&tp=0) |
 | Tools |  | 
 | ![Tools](https://elwan.ch/github/cdp/cdp.php?data=VsCode,Git,Postman,Photoshop,Figma,BS%20Studio&tp=0)   
-
+</div>
 # 📈Stats
-
+<div style="text-align:center">
 ![Stats](https://github-readme-stats.vercel.app/api?username=YungBricoCoop&show_icons=true&theme=radical)<br>
 [![wakatime](https://wakatime.com/badge/user/ee872f10-6167-41c6-8aad-e80d7519df4c.svg)](https://wakatime.com/@ee872f10-6167-41c6-8aad-e80d7519df4c)
+</div>
