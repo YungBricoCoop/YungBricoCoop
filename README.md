@@ -15,19 +15,19 @@
 
 # 🌐 Languages / Technologies
 
-##  Love it
+###  Love it
 ![LoveIt](https://elwan.ch/github/cdp/cdp.php?data=Python,Javascript,React,Php&tp=0)
 
-##  Like it
+###  Like it
 ![LikeIt](https://elwan.ch/github/cdp/cdp.php?data=NodeJS,Django,Bootstrap,Chart.js,JAVA,MySQL&tp=0)
 
-## Learned at school 
+### Learned at school 
 ![School](https://elwan.ch/github/cdp/cdp.php?data=Java,JS,PHP,SQL,Linux)
 
-## Want to learn/learn more
+### Want to learn/learn more
 ![Learn](https://elwan.ch/github/cdp/cdp.php?data=Socket.IO,Flutter,Vue.js,Three.js,C%23&tp=0)
 
-## Tools
+### Tools
 ![Tools](https://elwan.ch/github/cdp/cdp.php?data=VsCode,Git,Postman,Photoshop,Figma,BS%20Studio&tp=0)
 
 # 📈Stats
