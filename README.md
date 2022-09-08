@@ -7,7 +7,7 @@
 
 # 🤙Hi there ! I'm Elwan
 
-- 🌱 I’m currently learning c# and K2 by Nintex
+- 🌱 I’m currently learning Filemaker
 - 💻 Work : I really like working on web/scripting projects
 - 📫 How to reach me: elwan.mayencourt@gmail.com
 - 🎵 Music: I like and listen to music a lot
