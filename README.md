@@ -24,6 +24,4 @@
 | ![Tools](https://elwan.ch/github/cdp/cdp.php?data=VsCode,Git,Postman,Photoshop,Figma,BS%20Studio&tp=0)   
 
 # 📈Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=YungBricoCoop&show_icons=true&theme=radical)<br>
 [![wakatime](https://wakatime.com/badge/user/ee872f10-6167-41c6-8aad-e80d7519df4c.svg)](https://wakatime.com/@ee872f10-6167-41c6-8aad-e80d7519df4c)
