@@ -14,16 +14,13 @@
 - 🙃 Hobbys : 3D🖨️ / Electronic / Drones
 
 # 🌐 Languages / Technologies / Tools
-
-|Love it     | Like it          |
-|--------|----------------------|
-| ![LoveIt](https://elwan.ch/github/cdp/cdp.php?data=Python,Javascript,React,Php&tp=0) | ![LikeIt](https://elwan.ch/github/cdp/cdp.php?data=NodeJS,Django,Bootstrap,Chart.js,JAVA,MySQL&tp=0) | 
-| Learned at school | Want to learn/learn more | 
-| ![School](https://elwan.ch/github/cdp/cdp.php?data=Java,JS,PHP,SQL,Linux) | ![Learn](https://elwan.ch/github/cdp/cdp.php?data=Socket.IO,Flutter,Vue.js,Three.js,C%23&tp=0) |
-| Tools |  | 
-| ![Tools](https://elwan.ch/github/cdp/cdp.php?data=VsCode,Git,Postman,Photoshop,Figma,BS%20Studio&tp=0)   
+<img width="630" alt="Group 9" src="https://user-images.githubusercontent.com/42273436/195654294-531e0211-2a27-4ac9-b70e-5eebfa69db10.png">
 
 # 📈Stats
 ![Elwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YungBricoCoop&include_all_commits=true&count_private=true&theme=radical&show_icons=true&hide=prs,issues)
 
 [![wakatime](https://wakatime.com/badge/user/ee872f10-6167-41c6-8aad-e80d7519df4c.svg)](https://wakatime.com/@ee872f10-6167-41c6-8aad-e80d7519df4c)
+
+
+
+
