@@ -7,7 +7,7 @@
 
 # 🤙Hi there ! I'm Elwan
 
-- 🌱 I’m currently learning Flask and TypeScript
+- 🌱 I’m currently learning FastAPI
 - 💻 Work : I really like working on web/scripting projects
 - 📫 How to reach me: elwan.mayencourt@gmail.com
 - 🎵 Music: I like and listen to music a lot
