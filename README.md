@@ -7,11 +7,11 @@
 
 # 🤙Hi there ! I'm Elwan
 
-- 🌱 I’m currently learning FastAPI
-- 💻 Work : I really like working on web/scripting projects
-- 📫 How to reach me: elwan.mayencourt@gmail.com
-- 🎵 Music: I like and listen to music a lot
-- 🙃 Hobbys : 3D🖨️ / Electronic / Drones
+- 💻 Web developer and enthusiast of scripting projects.
+- 🌱 Immersing myself in learning as much as possible, pushing my limits until my brain is ready to burst!
+- 📫 Feel free to reach me at: mayencourt@elwan.ch
+- 🎵 I'm a music lover and enjoy listening to a wide range of genres.
+- 🙃 My hobbies also include 3D printing, electronics, flying drones and modular synths
 
 # 🌐 Languages / Technologies / Tools
 <img width="630" alt="Group 9" src="https://user-images.githubusercontent.com/42273436/195654294-531e0211-2a27-4ac9-b70e-5eebfa69db10.png">
