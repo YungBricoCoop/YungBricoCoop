@@ -7,11 +7,11 @@
 
 # 🤙Hi there ! I'm Elwan
 
--   💻 Web developer and enthusiast of scripting projects.
--   🌱 Immersing myself in learning as much as possible, pushing my limits until my brain is ready to burst!
--   📫 Feel free to reach me at: mayencourt@elwan.ch
--   🎵 I'm a music lover and enjoy listening to a wide range of genres.
--   🙃 My hobbies also include 3D printing, electronics, flying drones and modular synths
+-   💻 **/job** I do things
+-   🌱 **/learn** I f\*cking love learning new things
+-   📫 **/contact** Hit me up at mayencourt@elwan.ch
+-   🎵 **/music** Dark trap, emo rap, metal, modular synth, ....
+-   🙃 **/hobbies** 3D printing, electronics, flying drones and modular synths
 
 # 🌐 Languages / Technologies / Tools
 
