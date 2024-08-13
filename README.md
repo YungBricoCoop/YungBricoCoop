@@ -1,6 +1,5 @@
 <div align="center">
-
-   <img align="center" src="https://raw.githubusercontent.com/YungBricoCoop/YungBricoCoop/main/assets/28.png" width="150" height="150" />
+   <img align="center" src="https://raw.githubusercontent.com/YungBricoCoop/YungBricoCoop/main/assets/L1.svg" width="150" height="150" />
    <br>
    <a href="https://elwan.ch">🔗 Portfolio</a>
 </div>

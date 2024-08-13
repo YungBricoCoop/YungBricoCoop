@@ -1,0 +1,14 @@
+<svg width="1000" height="1000" viewBox="0 0 1000 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="200" y="200" width="107.143" height="546.428" fill="white"/>
+<path d="M255.508 800L200 746.373L255.508 692.857L377.754 692.857L500 692.857L500 800L255.508 800Z" fill="white"/>
+<line x1="340.215" y1="466.786" x2="340.215" y2="661.786" stroke="white" stroke-width="4"/>
+<line x1="534.286" y1="659.5" x2="339.286" y2="659.5" stroke="white" stroke-width="4"/>
+<line x1="498.586" y1="798.586" x2="533.943" y2="763.229" stroke="white" stroke-width="4"/>
+<line x1="533.072" y1="657.5" x2="533.072" y2="764.643" stroke="white" stroke-width="4"/>
+<rect x="800" y="800" width="107.143" height="546.428" transform="rotate(180 800 800)" fill="white"/>
+<path d="M744.492 200L800 253.628L744.492 307.143L622.246 307.143L500 307.143L500 200L744.492 200Z" fill="white"/>
+<line x1="659.786" y1="533.214" x2="659.786" y2="338.214" stroke="white" stroke-width="4"/>
+<line x1="465.714" y1="340.5" x2="660.714" y2="340.5" stroke="white" stroke-width="4"/>
+<line x1="501.414" y1="201.414" x2="466.057" y2="236.771" stroke="white" stroke-width="4"/>
+<line x1="466.928" y1="342.5" x2="466.928" y2="235.357" stroke="white" stroke-width="4"/>
+</svg>
